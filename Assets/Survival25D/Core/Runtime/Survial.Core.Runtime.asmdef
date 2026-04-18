@@ -1,0 +1,16 @@
+{
+    "name": "Survial.Core.Runtime",
+    "rootNamespace": "Survial.Core.Runtime",
+    "references": [
+        "GUID:9f4cb9cd926327d43b7fcfaf1141417e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

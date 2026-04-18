@@ -1,0 +1,18 @@
+{
+    "name": "Survial.Core.Editor",
+    "rootNamespace": "Survial.Core.Editor",
+    "references": [
+        "GUID:9f4cb9cd926327d43b7fcfaf1141417e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
